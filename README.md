@@ -8,3 +8,5 @@ and dependencies you should need to install are:-
 4.opencv 
 5.pYgame
 here We have used tkinter for our interface design..since it was a basic one 
+however the accuracy is not too much since our training dataset image was small..
+but can be incresed and can be made more accurate
