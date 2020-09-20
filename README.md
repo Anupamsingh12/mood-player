@@ -11,4 +11,8 @@ and dependencies you should need to install are:-
 
 here We have used tkinter for our interface design..since it was a basic one 
 however the accuracy is not too much since our training dataset image was small..
-but can be incresed and can be made more accurate
+but can be incresed and made more accurate
+
+keep the files as it is 
+create one model folder and place your own trainned model inside the directory
+and run final.py 
