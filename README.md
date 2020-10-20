@@ -16,3 +16,5 @@ but can be incresed and made more accurate
 keep the files as it is 
 create one model folder and place your own trainned model inside the directory
 and run final.py 
+
+Thank you
